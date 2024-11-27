@@ -1,7 +1,5 @@
 # Trc
 
-# Trc
-
 # Maderable Carpintería
 
 Portafolio web que muestra los servicios y proyectos de Maderable Carpintería.
