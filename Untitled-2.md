@@ -1,1 +1,3 @@
-https://maderable.github.io/Trc/https://maderable.github.io/Trc/
+# Maderable
+
+"//"[def]:[https://github.com/Maderable/Maderable.git]
