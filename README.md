@@ -1,6 +1,6 @@
-# Trc
+# Maderable
 
-# Maderable Carpintería
+ Maderable Carpintería
 
 Portafolio web que muestra los servicios y proyectos de Maderable Carpintería.
 
@@ -13,8 +13,24 @@ Portafolio web que muestra los servicios y proyectos de Maderable Carpintería.
 
 ## Estructura del Proyecto
 
-Trc/ ├── [index.html](index.html) ├── [styles.css](styles.css) ├── [script.js](scripts.js) ├── assets/ │ ├── img/ │ ├── logo.png │ ├── foto1.jpg │ ├── foto2.jpg ├── README.md
+Maderable
+
+├── [index.html]
+├── [styles.css]
+├── [script.js]
+├── [assets/]
+
+    ├── [assets/img]
+        ├── assets/img/logo.png
+        ├── assets/img/foto.jpg
+        ├── assets/img/foto2.jpg
+    
+    ├── fonts/
+└── README.md
 
 ## Enlace del Proyecto
 
-- [GitHub Pages](https://maderable.github.io/Trc/)
+- [GitHub Pages][def]
+- [Portafolio][def]
+
+[def]: https://maderable.github.io/Maderable/
