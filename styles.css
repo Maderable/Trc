@@ -2,30 +2,21 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    line-height: 1.6;
+    background-color: #f4f4f4;
 }
 
 header {
-    background: #444;
-    color: white;
-    padding: 1rem 0;
-    text-align: center;
-}
-
-header img {
-    max-height: 50px;
-}
-
-nav ul {
-    display: flex;
-    justify-content: center;
-    list-style: none;
-    gap: 1rem;
-}
-
-footer {
     background: #333;
-    color: white;
+    color: #fff;
+    padding: 10px 20px;
     text-align: center;
-    padding: 1rem;
 }
+
+.kv-ee-logo img {
+    max-width: 100px;
+}
+
+.kv-page-content {
+    padding: 20px;
+}
+
